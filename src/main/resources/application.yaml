@@ -1,0 +1,11 @@
+# Loading YAML
+# Spring Framework provides two convenient classes that can be used to load YAML documents.
+# The YamlPropertiesFactoryBean loads YAML as Properties and the YamlMapFactoryBean loads YAML as a Map.
+
+environments:
+    dev:
+        url: https://dev.example.com
+        name: Developer Setup
+    prod:
+        url: https://another.example.com
+        name: My Cool App
