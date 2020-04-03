@@ -18,7 +18,7 @@ import java.util.List;
  * 4.2.3. Application Property Files
  * https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-external-config-application-property-files
  *
- * mas nevvel : $ java -jar myproject.jar --spring.config.name=myproject
+ * mas nevvel : $ java -jar myproject.jar --spring.config.name=myproject ...
  *
  */
 
